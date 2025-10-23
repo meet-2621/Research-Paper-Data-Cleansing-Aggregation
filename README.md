@@ -59,4 +59,4 @@ screenshots/	Contains project images (data cleaning, merging, visualization)
 
 👩‍💻 Manmeet Kaur
 📅 October 2025
-🔗 Connect on LinkedIn
+🔗 Connect on LinkedIn (https://www.linkedin.com/in/manmeet-kaur-245a372ba/)
